@@ -12,7 +12,7 @@ for (let i = 0; i < 3; i++) {
     updateResult = await updateChannels()
     break
   } catch (error) {
-    printRed("接口更新出现问题，正在重试...")
+    printRed(`接口更新出现问题，正在重试... 错误详情: ${error.message}`)
   }
 }
 
