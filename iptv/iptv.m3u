@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://hk.gh-proxy.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontents.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视",CCTV1综合
-http://pull-hls-f11.douyincdn.com/media/stream-407398690351481516.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776379047&major_anchor_level=common&sign=dee15aed80e044e6f608c9c5d80ccf58&t_id=037-20260410063727AD978DD8D6B0EDD0DB5F-Pz3xEX
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视",CCTV1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="" group-title="央视",CCTV6电影
+http://pull-f3.douyincdn.com/media/stream-695587329821377196.m3u8
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="" group-title="央视",CCTV13新闻
 http://pull-hls-f11.douyincdn.com/media/stream-695579599148417708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776158026&major_anchor_level=common&sign=570d99ae8e46e223e5dcf8866006b64d&t_id=037-2026040717134608B5CC3E9E05A50957E4-1VdjWb
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="" group-title="央视",CCTV13新闻
@@ -29,8 +29,6 @@ http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 http://69.30.246.194/live/jsws.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
-http://43.175.97.26/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060902.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="卫视",深圳卫视
 http://43.175.97.26/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061303.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="卫视",山东卫视
