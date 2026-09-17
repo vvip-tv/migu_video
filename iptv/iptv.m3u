@@ -41,8 +41,6 @@ http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="卫视",深圳卫视
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="卫视",安徽卫视
 http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="卫视",天津卫视
@@ -75,6 +73,8 @@ http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 #EXTINF:-1 tvg-id="伊川综合" tvg-name="伊川综合" tvg-logo="" group-title="河南",伊川综合
 http://live.dxhmt.cn:9081/tv/10329-1.m3u8
+#EXTINF:-1 tvg-id="周口新闻综合" tvg-name="周口新闻综合" tvg-logo="" group-title="河南",周口新闻综合
+http://222.136.190.68:8081/live/6520562530090312540.m3u8
 #EXTINF:-1 tvg-id="长垣综合" tvg-name="长垣综合" tvg-logo="" group-title="河南",长垣综合
 http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
 #EXTINF:-1 tvg-id="长垣综合" tvg-name="长垣综合" tvg-logo="" group-title="河南",长垣综合
